@@ -20,5 +20,5 @@ It will soon include a full user authentication system.
 * install node 6 (probably with nvm)
 * install yarn
 * run `yarn`
-* copy conf/default.example.js to default.js and edit as needed
+* copy config/default.example.js to default.js and config.example.json to config.json and edit as needed
 * sequelize db:migrate

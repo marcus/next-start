@@ -5,7 +5,7 @@ import bodyParser from 'body-parser';
 import db from '../models';
 //const db = {};
 //import middleware from './middleware';
-import config from '../conf/default';
+import config from '../config/default';
 import session from 'express-session';
 import next from 'next';
 import user from './user';

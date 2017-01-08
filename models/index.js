@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Sequelize from 'sequelize';
 import _ from 'lodash';
-import config from '../conf/default';
+import config from '../config/default';
 
 let db = {};
 

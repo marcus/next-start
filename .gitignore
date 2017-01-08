@@ -6,5 +6,7 @@ logs
 tags.lock
 Session.vim
 tags.temp
-conf/default.js
+config/default.js
 yarn-error.log
+config/config.json
+.next/bundles/pages/*/*

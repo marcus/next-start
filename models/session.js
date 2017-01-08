@@ -1,5 +1,3 @@
-import config from '../conf/default';
-
 export default (db, DataTypes) => {
   const Session = db.define('Session', {
     session_id: {
