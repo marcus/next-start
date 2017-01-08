@@ -1,17 +1,19 @@
 # JavaScript Starter Kit
 Quick start kit for the following stack:
 * Node.js
-* * Express
-* * Postgres
-* * Sequelize
-* * Next.js
-* * React
-* * Redux
-* * Webpack
-*
-* It includes webpack configuration (through Next.js), Babel (stage-0 by default). 
-*
-* It will soon include a full user authentication system.
+* Express
+* Postgres
+* Sequelize
+* Next.js
+* React
+* Redux
+* Webpack
+
+Next.js provides server-side rendering for React.
+
+It includes webpack configuration (through Next.js) and Babel (stage-0 by default).
+
+It will soon include a full user authentication system.
 
 ## Getting started
 * Clone the repo
