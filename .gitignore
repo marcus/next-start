@@ -9,4 +9,4 @@ tags.temp
 config/default.js
 yarn-error.log
 config/config.json
-.next/bundles/pages/*/*
+.next
